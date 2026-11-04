@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\C-Sharp\C-Sharp\assignment5\assigment5\assigment5\obj\Debug\assigment5.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\C-Sharp\C-Sharp\assignment5\assigment5\assigment5\obj\Debug\assigment5.Form1.resources
+C:\Users\hp\Documents\C-Sharp\C-Sharp\assignment5\assigment5\assigment5\obj\Debug\assigment5.Properties.Resources.resources
+C:\Users\hp\Documents\C-Sharp\C-Sharp\assignment5\assigment5\assigment5\obj\Debug\assigment5.csproj.GenerateResource.cache
+C:\Users\hp\Documents\C-Sharp\C-Sharp\assignment5\assigment5\assigment5\obj\Debug\assigment5.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\C-Sharp\C-Sharp\assignment5\assigment5\assigment5\bin\Debug\assigment5.exe.config
+C:\Users\hp\Documents\C-Sharp\C-Sharp\assignment5\assigment5\assigment5\bin\Debug\assigment5.exe
+C:\Users\hp\Documents\C-Sharp\C-Sharp\assignment5\assigment5\assigment5\bin\Debug\assigment5.pdb
+C:\Users\hp\Documents\C-Sharp\C-Sharp\assignment5\assigment5\assigment5\obj\Debug\assigment5.exe
+C:\Users\hp\Documents\C-Sharp\C-Sharp\assignment5\assigment5\assigment5\obj\Debug\assigment5.pdb
